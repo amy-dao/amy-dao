@@ -48,9 +48,9 @@
 
 ### 🌟 what i'm involved in
 
-- 🤖 **ML Trainee @ [AI4Good Lab x Mila](https://mila.quebec/)** — building ML pipelines and UX/UI for a clinical AI tool *(May 2026 – present)*
-- 🎪 **Design Lead @ McHacks** — leading brand identity and design team for McGill's hackathon *(Apr 2026 – present)*
-- 💙 **Product Designer @ Hack4Impact McGill** — designing a scalable UI system for a volunteer management platform *(Mar 2026 – present)*
-- 📸 **Freelance Photographer** — end-to-end client work, shooting & post-production in Lightroom & Photoshop *(Sept 2023 – present)*
+- 🤖 **ML Trainee @ [AI4Good Lab x Mila](https://www.ai4goodlab.com/)** — building ML pipelines and UX/UI for a clinical AI tool
+- 🎪 **Design Lead @ [McHacks](https://mchacks.ca/)** — leading brand identity and design team for McGill's hackathon 
+- 💙 **Product Designer @ [Hack4Impact McGill](https://mcgill.hack4impact.org)** — designing a scalable UI system for a volunteer management platform 
+- 📸 **Freelance [Photographer](https://amydao.mypixieset.com/)** — end-to-end client work, shooting & post-production
 
 
