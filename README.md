@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=hi%2C+i'm+amy+%F0%9F%91%8B;cs+%2B+psych+%40+mcgill;building+things+i+care+about" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7CB87C&center=true&vCenter=true&width=600&lines=hi%2C+i'm+amy+%F0%9F%91%8B;cs+%2B+psych+%40+mcgill;building+things+i+care+about" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,6 +12,15 @@
 - 🔗 connect with me on [LinkedIn](https://linkedin.com/in/amyddao)
 - 📬 reach me at [amymimidao@gmail.com](mailto:amymimidao@gmail.com)
 - 🌱 always learning, always curious
+
+---
+
+### 🌟 what i'm involved in
+
+- 🤖 **ML Trainee @ [AI4Good Lab x Mila](https://www.ai4goodlab.com/)** — building ML pipelines and UX/UI for a clinical AI tool
+- 🎪 **Design Lead @ [McHacks](https://mchacks.ca/)** — leading brand identity and design team for McGill's hackathon 
+- 💙 **Product Designer @ [Hack4Impact McGill](https://mcgill.hack4impact.org)** — designing a scalable UI system for a volunteer management platform 
+- 📸 **Freelance [Photographer](https://amydao.mypixieset.com/)** — end-to-end client work, shooting & post-production
 
 ---
 
@@ -43,14 +52,5 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### 🌟 what i'm involved in
-
-- 🤖 **ML Trainee @ [AI4Good Lab x Mila](https://www.ai4goodlab.com/)** — building ML pipelines and UX/UI for a clinical AI tool
-- 🎪 **Design Lead @ [McHacks](https://mchacks.ca/)** — leading brand identity and design team for McGill's hackathon 
-- 💙 **Product Designer @ [Hack4Impact McGill](https://mcgill.hack4impact.org)** — designing a scalable UI system for a volunteer management platform 
-- 📸 **Freelance [Photographer](https://amydao.mypixieset.com/)** — end-to-end client work, shooting & post-production
 
 
