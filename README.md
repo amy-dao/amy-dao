@@ -5,7 +5,7 @@
 ---
 
 ### 🌸 about me
-- 🎓 **B.A. Computer Science + Psychology** (minor in Behavioural Science) @ **McGill University**, expected May 2028
+- 🎓 **Computer Science + Psychology** (minor in Behavioural Science) @ **McGill University**, expected May 2028
 - 💻 interested in the intersection of **AI, design, and human behaviour**
 - 📍 based in **Montréal & Ottawa**
 - 🌐 portfolio: [amydao.vercel.app](https://amydao.vercel.app)
