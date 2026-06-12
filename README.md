@@ -20,25 +20,37 @@
 
 ---
 
-### 🛠️ tech stack
+### 🎨 design & tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+### 💻 coding
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 📊 github stats
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amy-dao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amy-dao&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+### 🌟 what i'm involved in
 
----
+- 🤖 **ML Trainee @ [AI4Good Lab x Mila](https://mila.quebec/)** — building ML pipelines and UX/UI for a clinical AI tool *(May 2026 – present)*
+- 🎪 **Design Lead @ McHacks** — leading brand identity and design team for McGill's hackathon *(Apr 2026 – present)*
+- 💙 **Product Designer @ Hack4Impact McGill** — designing a scalable UI system for a volunteer management platform *(Mar 2026 – present)*
+- 📸 **Freelance Photographer** — end-to-end client work, shooting & post-production in Lightroom & Photoshop *(Sept 2023 – present)*
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amy-dao&color=a78bfa&style=flat-square&label=profile+views" />
-</div>
+
